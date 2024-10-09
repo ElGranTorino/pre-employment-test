@@ -1,3 +1,4 @@
+![Alt Text](https://raw.githubusercontent.com/ElGranTorino/pre-employment-test/master/image_2024-10-09_20-14-21.png)
 # Тестовое задание: Форма обмена для криптообменника
 
 ## Описание
